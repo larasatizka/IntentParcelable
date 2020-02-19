@@ -38,6 +38,7 @@ public class ProfileBundleActivity extends AppCompatActivity {
             usernameText.setText(value);
             nameText.setText(value1);
             ageText.setText(Integer.toString(value2));
+
         }
     }
 }
